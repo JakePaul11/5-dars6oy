@@ -1,0 +1,66 @@
+/* Proyekt */
+
+/* #user-list {
+    list-style-type: none;
+  }
+  
+.user-item {
+    width: 300px;
+    margin-top: 50px;
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Uy ishi */
+
+#products-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.product-card {
+    border-radius: 8px;
+    padding: 30px;
+    margin: 16px;
+    max-width: 200px;
+    text-align: center;
+    box-shadow: 5px 8px 18px 15px rgba(0,0,0,0.75);
+}
+.product-card img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+.product-card h3 {
+    margin: 8px;
+    font-size: 18px;
+}
+.product-card p {
+    color: #844c4c;
+}
+.product-card .price {
+    font-size: 20px;
+    color: #ff0000;
+}
